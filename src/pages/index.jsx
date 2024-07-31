@@ -12,6 +12,7 @@ export default function Home() {
       <Section1 />
       <Section2 />
       <Section3 />
+      <h1>AAA</h1>
     </main>
   );
 }
